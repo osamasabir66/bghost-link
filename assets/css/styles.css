@@ -828,7 +828,7 @@ footer.entry-meta .meta-in {
 .ReadingBTN {text-align: center;}
 
 .ReadingBTN a{
-  font-weight: normal;
+  font-weight: bold;
   background: transparent !important;
   border: 1px solid #333;
   text-shadow: none;
@@ -838,3 +838,10 @@ footer.entry-meta .meta-in {
   font-size: 12px;
   margin: 0;
 }
+
+
+.row {
+  margin: 0 !important;
+}
+
+.m-b-40{margin-bottom: 40px;}
